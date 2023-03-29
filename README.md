@@ -8,8 +8,5 @@ Quando l’utente clicca su ogni cella, la cella cliccata si colora di azzurro e
 - creo un ciclo che mi crei tutte le celle della tabella
 - aggiungo che al click le celle vengano colorate 
 - aggiungo a ogni cella il proprio numero e lo mostro in console
+- schiacciando sul pulsante faccio in modo che la tabella compaia e che il pulsante scompaia
 
-
-
-
-- non riesco a fare in modo che spunti la tabella dal bottone e che il bottone scompaia 

@@ -33,20 +33,17 @@ body{
   background-color: rgb(11, 205, 240);
 }
 
-#start{
-  display: none;
+.start{
+  
   margin: 100px 100px 100px 100px;
   height: 20px;
   width: 60px;
 }
 
-#start:hover{
+.start:hover{
   cursor: pointer;
 }
 
-.show{
-  display: block;
-}
 
 .hide{
   display: none;
